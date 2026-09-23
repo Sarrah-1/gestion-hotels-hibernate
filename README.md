@@ -11,10 +11,17 @@ Projet Java / Hibernate pour la gestion des données d'hôtels et de chambres av
 ## Captures d'écran et Résultats
 
 ### 1. Liste de tous les hôtels enregistrés
-<img width="535" height="80" alt="SELECT" src="https://github.com/user-attachments/assets/5c4391a3-1702-40f8-84ab-5d3abee40801" />
+<img width="509" height="376" alt="SELECT" src="https://github.com/user-attachments/assets/a8625bbb-94e0-4388-9060-5d6604bc0039" />
+
 
 ### 2. Recherche dynamique : Chambres par hôtel et état
-<img width="596" height="107" alt="SCREEN2" src="https://github.com/user-attachments/assets/a3a93d67-6148-4eff-810a-469b6bd35f69" />
+
+<img width="461" height="126" alt="SCREEN2" src="https://github.com/user-attachments/assets/80a9ca5f-fa35-4974-9376-838901b5a092" />
+
+<img width="461" height="188" alt="SELECT02" src="https://github.com/user-attachments/assets/d140f302-f295-4d49-9ef4-26b18d5bec94" />
+
+<img width="562" height="113" alt="SCREEN3" src="https://github.com/user-attachments/assets/fa8c2188-4519-4672-9bde-1117229f164b" />
+
 
 ### 3. Recherche dynamique : Filtrage par état et prix max
 <img width="562" height="113" alt="SCREEN3" src="https://github.com/user-attachments/assets/8a948e1b-2937-4af5-8aca-d05c2e51c5ee" />
