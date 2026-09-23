@@ -1,0 +1,13 @@
+# Fichiers compilés
+/target/
+*.class
+
+# Configuration de l'IDE (IntelliJ / Eclipse / VS Code)
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Log files
+*.log
